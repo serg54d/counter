@@ -13,7 +13,7 @@
 	background-color: #5599cd;
 	padding: 20px;
 	font-weight: 700;
-	font-size: 25px;
+	font-size: 16px;
 	color: #000;
 	display: flex;
 	justify-content: center;
@@ -40,4 +40,8 @@
 }
 :disabled {
 	opacity: 0.5;
+}
+
+.error {
+	color: red;
 }
